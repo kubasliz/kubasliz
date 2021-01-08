@@ -5,7 +5,7 @@
 ## I'm future Developer 
 
 - 🔭 I’m currently studying
-- 🌱 I’m currently learning everything 🤣 
+- 🌱 I’m currently learning everything
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: Hi/Him
 - 🥅 2021 Goals: Learn as much as possible.

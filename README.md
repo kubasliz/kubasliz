@@ -1,6 +1,6 @@
 ### Hello World, I'm Kuba <img alt="hi" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px">
 
-<img align="right" alt="GIF" src="https://github.com/kubasliz/kubasliz/blob/master/code.gif?raw=true" width="430" height="250" />
+<img align="right" alt="GIF" src="https://github.com/kubasliz/kubasliz/blob/master/coder.gif?raw=true" width="430" height="250" />
 
 ## I'm future Developer 
 

@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning everything
 - 💬 Ask me about ... Anything
 - 😄 Pronouns: Hi/Him
-- 🥅 2021 Goals: Learn as much as possible.
+- 🥅 2021 Goals: Learn as much as possible
 - ⚡ Fun fact: I solve the Rubik’s Cube in under 25 seconds
 
 <br />

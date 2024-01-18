@@ -2,7 +2,7 @@
 
 <img align="right" alt="Coding" src="/images/code-typing.svg" width="300" height="250" />
 
-### I'm Beginner Front end Developer
+### I'm Beginner Frontend Developer
 
 - 🔭 I’m currently studying
 - 🌱 I’m currently learning NEXT.js

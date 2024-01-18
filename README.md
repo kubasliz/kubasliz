@@ -1,6 +1,6 @@
 # Hello World, I'm Kuba
 
-<img align="right" alt="Coding" src="/images/code-typing.svg" width="200" height="200" />
+<img align="right" alt="Coding" src="/images/code-typing.svg" width="300" height="250" />
 
 ### I'm Beginner Front end Developer
 

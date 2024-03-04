@@ -33,9 +33,8 @@
 
 ![Kubas's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kubasliz&show_icons=true&theme=default#gh-light-mode-only)
 
-#
-
 <details>
   <summary><span>🌍 Most Used Languages</span></summary>
+  <br />
   <img align="left" alt="Kuba's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubasliz" />
 </details>

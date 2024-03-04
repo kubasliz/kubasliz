@@ -36,6 +36,6 @@
 #
 
 <details>
-  <summary><h3>🌍 Most Used Languages</h3></summary>
+  <summary><span>🌍 Most Used Languages</span></summary>
   <img align="left" alt="Kuba's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kubasliz" />
 </details>
